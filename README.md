@@ -11,6 +11,8 @@ Dosya 2 fonksiyondan oluşmaktadır.
 2. Fonksiyon daha önce oluşturulmuş bir link kısaltma kodunu kullanmanızı sağlar.
 Örnek: localhost:3000/api/url/get?u=JD7ns
 Çıktı: {"code":"JD7ns","url":"https://www.midordas.xyz"}
+--
+Canlı örneği için www.midordas.xyz/api/url/
 
 ```
 
